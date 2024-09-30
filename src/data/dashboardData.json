@@ -1,0 +1,33 @@
+
+{
+    "categories": [
+      {
+        "id": "cspm-executive-dashboard",
+        "name": "CSPM Executive Dashboard",
+        "widgets": [
+          {
+            "id": "widget-1",
+            "name": "Widget One",
+            "text": "Random text for Widget One."
+          },
+          {
+            "id": "widget-2",
+            "name": "Widget Two",
+            "text": "Random text for Widget Two."
+          }
+        ]
+      },
+      {
+        "id": "it-dashboard",
+        "name": "IT Dashboard",
+        "widgets": [
+          {
+            "id": "widget-3",
+            "name": "Widget Three",
+            "text": "Random text for Widget Three."
+          }
+        ]
+      }
+    ]
+  }
+  
